@@ -1,0 +1,14 @@
+h1, h2, h3, h4, h6 , span{
+    color: white;
+    font-family: Verdana;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+h5{
+    color: white;
+    font-family: Verdana;
+}
+
+body {
+  background-color: #25374C;
+}

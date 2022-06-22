@@ -54,7 +54,7 @@ marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.21.0
 more-itertools==8.1.0
 newsapi-python==0.2.6
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pendulum==1.4.4
 plotly==4.5.0
